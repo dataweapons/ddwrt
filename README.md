@@ -1,5 +1,5 @@
 # ddwrt
-DD-WRT related.
+DD-WRT builds and such.
 
 ##################################
 # Linksys E900
