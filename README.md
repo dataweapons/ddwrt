@@ -12,11 +12,14 @@ Mainly, this exists for my use, hence the focus on:
 ```
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/dataweapons/dd-wrt/tags). 
+For the versions available, see the [tags on this repository](https://github.com/dataweapons/ddwrt/tags). 
 
-## Maintainer
+## Contact
 
 * **d3vnull@dataweapons.org** (http://gitlab.dataweapons.org)
+
+## External
+* powershell (http://psh3ll.dataweapons.org)
 
 ## License
 
